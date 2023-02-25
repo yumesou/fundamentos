@@ -1,0 +1,13 @@
+body {
+    font-size: 0.9rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #eee;
+    background: #ff6e7f;
+    background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);
+    background: linear-gradient(to right, #bfe9ff, #ff6e7f);
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #0004;
+}
